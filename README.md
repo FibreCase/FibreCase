@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=FibreCase.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=FibreCase.readme)
 <!--
 **FibreCase/FibreCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
