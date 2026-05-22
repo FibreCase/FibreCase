@@ -15,6 +15,6 @@ New Energy Science & Engineering · Wind Energy
 
 ## About Me
  
-- 🔧 **Embedded systems & hardware design** — MCU firmware, embedded ARM Linux, and hardware bring-up
+- 🔧 **Embedded systems & hardware design** — MCU firmware, embedded ARM Linux, board design and bring-up
 - 🌬️ **Wind turbine research** — aerodynamic simulation (CFD), mechanical design, and turbine control systems
  
