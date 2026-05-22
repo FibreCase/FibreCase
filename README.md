@@ -1,16 +1,20 @@
-## Across the Great Wall we can reach every corner in the world.  
-越过长城，走向世界  /  長城を越えて、世界とつながる
-<!--
-**FibreCase/FibreCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm FibreCase 👋
 
-Here are some ideas to get you started:
+**Undergraduate @ [North China Electric Power University](https://www.ncepu.edu.cn/)**  
+New Energy Science & Engineering · Wind Energy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-00A650?style=flat&logoColor=white)
+
+## About Me
+ 
+- 🔧 **Embedded systems & hardware design** — MCU firmware, embedded ARM Linux, and hardware bring-up
+- 🌬️ **Wind turbine research** — aerodynamic simulation (CFD), mechanical design, and turbine control systems
+ 
