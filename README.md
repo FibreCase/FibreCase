@@ -3,7 +3,7 @@
 **Undergraduate @ [North China Electric Power University](https://www.ncepu.edu.cn/)**
 New Energy Science & Engineering · Wind Energy
 
-[🌐 Personal site](https://fibrecase.github.io)
+[🌐 Personal site](https://fibrecase.github.io) · 📧 [fibrecase@ncepu.edu.cn](mailto:fibrecase@ncepu.edu.cn)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
